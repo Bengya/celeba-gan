@@ -1,1 +1,1 @@
-# Deep Convolutional Generatice Adversial Netowrk for CelebA dataset
+# Deep Convolutional Generative Adversarial Network for CelebA dataset
