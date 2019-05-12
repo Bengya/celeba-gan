@@ -1,1 +1,1 @@
-# celeba-gan
+# Deep Convolutional Generatice Adversial Netowrk for CelebA dataset
